@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @CrimsonHere
+- Hi, I’m @CrimsonHere
 - Reversing your clients 
