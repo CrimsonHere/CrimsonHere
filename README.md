@@ -1,3 +1,4 @@
-- Hi, I’m @CrimsonHere
+👋 Hi there, I'm CrimsonHere!
+Welcome to my GitHub space where I blend creativity and code to build amazing things!
 
-- Reversing C# clients is easy lol
+My GitHub Stats 📊
